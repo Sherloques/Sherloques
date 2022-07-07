@@ -1,5 +1,5 @@
 ### เฮ้ เข้ามาส่องหรอพวก!! Add Discord มาคุยกันได้นะอยากรู้ เกี่ยวกับโค้ดตัวไหน
-ตามโปรไฟล์ข้างล่างเลย จุ้บๆ https://opclockwebsite.tkm | https://sherloquepofile.tk/
+ตามโปรไฟล์ข้างล่างเลย จุ้บๆ | https://sherloquepofile.tk/
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/349593771467341825
                             )](https://discord.com/users/349593771467341825)
