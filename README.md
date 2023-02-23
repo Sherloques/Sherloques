@@ -44,15 +44,15 @@
 
   <!-- ko-fi badge -->
   ถ้าคุณชอบสิ่งที่ฉันทำ อาจจะพิจารณาซื้อกาแฟ/ชาให้ฉัน 🥺👉👈<br><br>
-  [![BB-fi]([[https://ko-fi.com/img/githubbutton_sm.svg](https://discobb.sherloquebb.repl.co/)]
+  [![BB-fi][(https://discobb.sherloquebb.repl.co/)]
   <br><br>
 
   <!-- profile views badge -->
-  <a href="https://github.com/staciax">
+  <a href="https://github.com/Sherloques">
     <img src="https://komarev.com/ghpvc/?username=staciax">
 </a>
   <!-- follower badge -->
-<a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sherloques?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
   
   <!-- Footer -->
