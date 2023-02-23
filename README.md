@@ -44,7 +44,7 @@
 
   <!-- ko-fi badge -->
   ถ้าคุณชอบสิ่งที่ฉันทำ อาจจะพิจารณาซื้อกาแฟ/ชาให้ฉัน 🥺👉👈<br><br>
-  [![bb-fi]([https://ko-fi.com/img/githubbutton_sm.svg](https://discobb.sherloquebb.repl.co/))]
+  [![ko-fi]([https://ko-fi.com/img/githubbutton_sm.svg](https://discobb.sherloquebb.repl.co/))]
   <br><br>
 
   <!-- profile views badge -->
