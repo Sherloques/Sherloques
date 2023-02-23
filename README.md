@@ -1,9 +1,6 @@
 ### เฮ้ เข้ามาส่องหรอพวก!! Add Discord มาคุยกันได้นะอยากรู้ เกี่ยวกับโค้ดตัวไหน
 ตามโปรไฟล์ข้างล่างเลย จุ้บๆ | https://1z.chaninseedang.repl.co/ 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/349593771467341825
-                            )](https://discord.com/users/349593771467341825)
-                            
                             
 <!--
 **Sherloques/Sherloques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
