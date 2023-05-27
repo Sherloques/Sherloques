@@ -8,7 +8,7 @@ Software Developer
 กำลัง แก้ไข้ในสิ่งที่เคยทำพลาดไป กราบขอภัยช่วงแรกๆมันมือใหม่ ตอนนี้คนละเรื่อง!! C#, PHP, Python ,JavaScript, TypeScript
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [ผลงาน](http://discobb.chaninseedang3.repl.co)
+* 🖥️  See my portfolio at [ผลงาน](https://shorturl.asia/BaY4Q)
                             
 ## Tech Stack
 
