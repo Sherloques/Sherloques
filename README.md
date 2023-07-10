@@ -1,7 +1,9 @@
 ### เฮ้ เข้ามาส่องหรอพวก!! Add Discord มาคุยกันได้นะอยากรู้ เกี่ยวกับโค้ดตัวไหน
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sherloque
 =================================================================================================================================
-<img src="https://luppufy.onrender.com/member/<349593771467341825>?theme=<hexColor>">
+https://luppufy.onrender.com/member/<349593771467341825>
+
+<img src="https://luppufy.onrender.com/member/<349593771467341825>">
 Software Developer
 ------------------
 
