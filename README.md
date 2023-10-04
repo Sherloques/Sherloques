@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="#"><img src="https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d" alt="NinoMusic"></a>
+</h1>
+
+
 ### เฮ้ เข้ามาส่องหรอพวก!! Add Discord มาคุยกันได้นะอยากรู้ เกี่ยวกับโค้ดตัวไหน
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sherloque
 =================================================================================================================================
