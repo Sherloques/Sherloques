@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 https://luppufy.onrender.com/member/855388945419993119
 
-<img src="https://luppufy.onrender.com/member/855388945419993119">
+
 
 Software Developer
 ------------------
